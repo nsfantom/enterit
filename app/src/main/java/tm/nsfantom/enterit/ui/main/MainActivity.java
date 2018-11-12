@@ -1,8 +1,7 @@
 package tm.nsfantom.enterit.ui.main;
 
-import android.support.v4.app.ActivityCompat;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 import javax.inject.Inject;
 
